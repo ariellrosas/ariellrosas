@@ -80,7 +80,7 @@ Script de automação para **organizar arquivos automaticamente**, facilitando o
 
 # 🚀 Objetivos de aprendizado
 
-* Evoluir em **JavaScript e desenvolvimento web**
+* Evoluir no **Desenvolvimento web**
 * Criar mais ferramentas de **automação com Python**
 * Aprender mais sobre **Docker e servidores Linux**
 * Desenvolver soluções práticas para **automação e produtividade**
