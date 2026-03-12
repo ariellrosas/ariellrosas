@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Ariel Rosas
+# Olá 👋, eu sou Ariel
 
 🚀 **Estudante de Tecnologia | Desenvolvimento Web e Automação**  
 🇧🇷 Brasil
@@ -58,13 +58,24 @@ Estou estudando **JavaScript e Python**, desenvolvendo scripts e ferramentas par
 
 ## 📂 Projetos
 
-Em breve adicionarei repositórios com projetos práticos, incluindo:
+### 📁 File Organizer
+Script em **Python** que organiza automaticamente arquivos em pastas com base em regras definidas.
 
-- 📁 **Renomeador automático de arquivos em Python**
-- 🗑️ **Script de limpeza automática de arquivos por data e horário**
-- 🗂️ **Organizador automático de arquivos por padrão de nome**
+🔗 https://github.com/ariellrosas/File-Organizer
 
-Alguns projetos são desenvolvidos **com auxílio de IA como parte do processo de aprendizado**.
+---
+
+### 🗑️ Auto File Cleaner
+Ferramenta para **limpeza automática de arquivos**, removendo arquivos com base em critérios como data ou horário.
+
+🔗 https://github.com/ariellrosas/Auto-File-Cleaner
+
+---
+
+### 🗂️ File Organizer Auto
+Script de automação para **organizar arquivos automaticamente**, facilitando o gerenciamento de diretórios.
+
+🔗 https://github.com/ariellrosas/File-Organizer-Auto
 
 ---
 
@@ -85,4 +96,4 @@ Alguns projetos são desenvolvidos **com auxílio de IA como parte do processo d
 
 ---
 
-⭐ Sempre aprendendo e construindo novos projetos
+Sempre aprendendo e construindo novos projetos
