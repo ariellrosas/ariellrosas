@@ -20,5 +20,5 @@
 Desenvolver soluções práticas utilizando programação, automação e infraestrutura.
 
 ## Contato
-- GitHub: https://github.com/seuusuario
+- GitHub: https://github.com/ariellrosas
 - Email: ariellaureanorosas@gmail.com
