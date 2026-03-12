@@ -1,8 +1,7 @@
-# Olá 👋, eu sou Ariel Rosas
+# Olá 👋, eu sou Ariel
 
+🚀 **Estudante de Tecnologia | Desenvolvimento Web e Automação**
 🇧🇷 Brasil
-
-🚀 **Estudante de Tecnologia | Desenvolvimento Web, Programação e Automação**  
 
 Atualmente estou focado em aprender **desenvolvimento de software, automação de tarefas e infraestrutura Linux** através de projetos práticos.
 
@@ -28,38 +27,57 @@ Estou estudando **JavaScript e Python**, desenvolvendo scripts e ferramentas par
 
 ## 🧠 O que eu faço
 
-- 💻 Aprendendo **Desenvolvimento Web**
-- 🤖 Criando **scripts de automação com Python**
-- 🐧 Trabalhando com **ambientes Linux**
-- 📦 Explorando **containers com Docker**
-- 🗂️ Desenvolvendo ferramentas para **organização automática de arquivos**
+* 💻 Aprendendo **Desenvolvimento Web**
+* 🤖 Criando **scripts de automação com Python**
+* 🐧 Trabalhando com **ambientes Linux**
+* 📦 Explorando **containers com Docker**
+* 🗂️ Desenvolvendo ferramentas para **organização automática de arquivos**
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Web
+### 💻 Tecnologias que já domino
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-em%20aprendizado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div style="display: inline_block">
 
-### Programação
+<img align="center" alt="HTML" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right:10px;">
 
-![Python](https://img.shields.io/badge/Python-em%20aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img align="center" alt="CSS" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right:10px;">
 
-### Sistemas e Ferramentas
+<img align="center" alt="Git" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-![Linux](https://img.shields.io/badge/Linux-em%20aprendizado-000000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-em%20aprendizado-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+</div>
+
+---
+
+### 📚 Tecnologias em aprendizado
+
+<div style="display: inline_block">
+
+<img align="center" alt="JavaScript" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin-right:10px;">
+
+<img align="center" alt="Python" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right:10px;">
+
+<img align="center" alt="Linux" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="margin-right:10px;">
+
+<img align="center" alt="Docker" height="35" width="45"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+</div>
 
 ---
 
 ## 📂 Projetos
 
 ### 📁 File Organizer
+
 Script em **Python** que organiza automaticamente arquivos em pastas com base em regras definidas.
 
 🔗 https://github.com/ariellrosas/File-Organizer
@@ -67,6 +85,7 @@ Script em **Python** que organiza automaticamente arquivos em pastas com base em
 ---
 
 ### 🗑️ Auto File Cleaner
+
 Ferramenta para **limpeza automática de arquivos**, removendo arquivos com base em critérios como data ou horário.
 
 🔗 https://github.com/ariellrosas/Auto-File-Cleaner
@@ -74,6 +93,7 @@ Ferramenta para **limpeza automática de arquivos**, removendo arquivos com base
 ---
 
 ### 🗂️ File Organizer Auto
+
 Script de automação para **organizar arquivos automaticamente**, facilitando o gerenciamento de diretórios.
 
 🔗 https://github.com/ariellrosas/File-Organizer-Auto
@@ -82,18 +102,18 @@ Script de automação para **organizar arquivos automaticamente**, facilitando o
 
 ## 🚀 Objetivos de aprendizado
 
-- Evoluir em **JavaScript e desenvolvimento web**
-- Criar mais ferramentas de **automação com Python**
-- Aprender mais sobre **Docker e servidores Linux**
-- Desenvolver soluções práticas para **automação e produtividade**
+* Evoluir em **JavaScript e desenvolvimento web**
+* Criar mais ferramentas de **automação com Python**
+* Aprender mais sobre **Docker e servidores Linux**
+* Desenvolver soluções práticas para **automação e produtividade**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Ariel GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellrosas&show_icons=true&theme=tokyonight)
+![Ariel GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellrosas\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellrosas&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellrosas\&layout=compact\&theme=tokyonight)
 
 ---
 
