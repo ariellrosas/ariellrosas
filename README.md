@@ -1,7 +1,8 @@
-# Olá 👋, eu sou Ariel
+# Olá 👋, eu sou Ariel Rosas
 
-🚀 **Estudante de Tecnologia | Desenvolvimento Web e Automação**  
 🇧🇷 Brasil
+
+🚀 **Estudante de Tecnologia | Desenvolvimento Web, Programação e Automação**  
 
 Atualmente estou focado em aprender **desenvolvimento de software, automação de tarefas e infraestrutura Linux** através de projetos práticos.
 
@@ -49,7 +50,7 @@ Estou estudando **JavaScript e Python**, desenvolvendo scripts e ferramentas par
 
 ### Sistemas e Ferramentas
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-em%20aprendizado-000000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-em%20aprendizado-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -96,4 +97,4 @@ Script de automação para **organizar arquivos automaticamente**, facilitando o
 
 ---
 
-Sempre aprendendo e construindo novos projetos
+⭐ Sempre aprendendo e construindo novos projetos
