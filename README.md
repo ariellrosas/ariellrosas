@@ -52,7 +52,7 @@ Estou estudando **JavaScript e Python**, desenvolvendo scripts e ferramentas par
 
 ---
 
-# 📂 Projetos
+# 🎯 Projetos
 
 ## 📁 File Organizer
 
