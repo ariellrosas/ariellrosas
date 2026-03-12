@@ -1,11 +1,11 @@
-# Olá 👋, eu sou Ariel
-
-🚀 **Estudante de Tecnologia | Desenvolvimento Web e Automação**
+# Olá 👋, eu sou Ariel Rosas
 🇧🇷 Brasil
 
-Atualmente estou focado em aprender **desenvolvimento de software, automação de tarefas e infraestrutura Linux** através de projetos práticos.
+🚀 **Estudante de Tecnologia | Programação, Desenvolvimento Web e Automação**
 
-Estou estudando **JavaScript e Python**, desenvolvendo scripts e ferramentas para automatizar tarefas e melhorar fluxos de trabalho.
+Atualmente estou focado em aprender **desenvolvimento de software e web, automação de tarefas e infraestrutura Linux** através de projetos práticos.
+
+Estou estudando **JavaScript, TypeScript, React, Linux + Docker e Python**, desenvolvendo scripts e ferramentas para automatizar tarefas e melhorar fluxos de trabalho.
 
 ---
 
