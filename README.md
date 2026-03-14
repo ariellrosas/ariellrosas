@@ -52,32 +52,6 @@ Estou estudando **JavaScript, TypeScript, React, Linux + Docker e Python**, dese
 
 ---
 
-# 🎯 Projetos
-
-## 📁 File Organizer
-
-Script em **Python** que organiza automaticamente arquivos em pastas com base em regras definidas.
-
-🔗 https://github.com/ariellrosas/File-Organizer
-
----
-
-## 🗑️ Auto File Cleaner
-
-Ferramenta para **limpeza automática de arquivos**, removendo arquivos com base em critérios como data ou horário.
-
-🔗 https://github.com/ariellrosas/Auto-File-Cleaner
-
----
-
-## 🗂️ File Organizer Auto
-
-Script de automação para **organizar arquivos automaticamente**, facilitando o gerenciamento de diretórios.
-
-🔗 https://github.com/ariellrosas/File-Organizer-Auto
-
----
-
 # 🚀 Objetivos de aprendizado
 
 * Evoluir no **Desenvolvimento web**
